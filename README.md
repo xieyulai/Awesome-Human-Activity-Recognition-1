@@ -35,6 +35,7 @@ Please feel free to contribute this list.
 - REALDISP [[**link**](https://archive.ics.uci.edu/ml/datasets/REALDISP+Activity+Recognition+Dataset)]
 - UCIDSADS [[**link**](https://archive.ics.uci.edu/ml/datasets/daily+and+sports+activities)]
 - MMAct [[**link**](https://paperswithcode.com/dataset/mmact#:~:text=Human%20Action%20Understanding-,MMAct%20is%20a%20large%2Dscale%20dataset,multi%2Fcross%20modal%20action%20understanding.&text=and%20pressure%20signal.-,The%20dataset%20consists%20of%20more%20than%2036k%20video%20clips%20for,in%20four%20different%20distinct%20scenarios.)]
+- Warehouse MoC+Sensor [[**link**](https://github.com/xieyulai/warehouse-moc-sensor)]
 - TotalCapture [[**link**](https://cvssp.org/data/totalcapture/)]
 - WISDM [[**link**](https://www.cis.fordham.edu/wisdm/dataset.php)]
 - MotionSense [[**link**](https://paperswithcode.com/dataset/motionsense)]
